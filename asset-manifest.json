@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/JAVANOM/DEV.git/static/js/main.5007bbc4.js",
-    "index.html": "/JAVANOM/DEV.git/index.html",
-    "main.5007bbc4.js.map": "/JAVANOM/DEV.git/static/js/main.5007bbc4.js.map"
+    "main.js": "/DEV/static/js/main.5007bbc4.js",
+    "index.html": "/DEV/index.html",
+    "main.5007bbc4.js.map": "/DEV/static/js/main.5007bbc4.js.map"
   },
   "entrypoints": [
     "static/js/main.5007bbc4.js"
